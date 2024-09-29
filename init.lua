@@ -5,3 +5,4 @@ vim.o.cursorline = true
 vim.o.tabstop = 4
 vim.opt.termguicolors = true
 vim.g.mapleader = " "
+vim.o.autoindent = true
